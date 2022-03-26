@@ -14,4 +14,4 @@ Go to: https://docs.mapbox.com/mapbox-gl-js/api/ for documentation. Go to: https
 Roadmap
 This project was completed within the first 4 weeks of the intensive boot camp as is required to be presented as a part of student boot camp portfolio. It is anticipated, and provided time is available, that this project will be improved upon as skill sets progress through the boot camp.
 
-<img src="./mit-harvard-bus-stops.png">; width 600px;
+<img src="./mit-harvard-bus-stops.png">
